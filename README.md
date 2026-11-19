@@ -37,16 +37,12 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 ## `$ cat tech-stack.yaml`
 
-<table>
-<tr>
-<td width="50%"><img src="assets/stack-data-v3.svg" width="430" alt="Data Analytics: SQL, Python, Pandas and Excel"></td>
-<td width="50%"><img src="assets/stack-bi-v3.svg" width="430" alt="Business Intelligence: Power BI, Excel and data modeling"></td>
-</tr>
-<tr>
-<td><img src="assets/stack-engineering-v3.svg" width="430" alt="Data Engineering: PostgreSQL, PySpark and ETL foundations"></td>
-<td><img src="assets/stack-software-v3.svg" width="430" alt="Software Engineering: Java, Spring Boot, React, TypeScript, Docker and Git"></td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/stack-data-v3.svg" width="600" alt="Data Analytics: SQL, Python, Pandas and Excel"><br>
+  <img src="assets/stack-bi-v3.svg" width="600" alt="Business Intelligence: Power BI, Excel and data modeling"><br>
+  <img src="assets/stack-engineering-v3.svg" width="600" alt="Data Engineering: PostgreSQL, PySpark and ETL foundations"><br>
+  <img src="assets/stack-software-v3.svg" width="600" alt="Software Engineering: Java, Spring Boot, React, TypeScript, Docker and Git">
+</p>
 
 <details>
 <summary>View the stack in text</summary>
