@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Juan Parra — Data Analytics, Business Intelligence and Software Engineering">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editor-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/editor-hero-light.svg">
+  <img src="assets/editor-hero-dark.svg" width="100%" alt="Juan Parra — Data Analytics, Business Intelligence and Software Engineering">
 </picture>
 
 ## `$ whoami`
