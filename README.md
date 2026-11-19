@@ -27,20 +27,18 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 This is how I connect operational context with analytics and software: start with the problem, make the data understandable and support decisions with evidence.
 
-## `$ cat stack.yaml`
+## `$ cat tech-stack.yaml`
 
-```yaml
-data_analytics:
-  - SQL, Python, Pandas, Excel
-business_intelligence:
-  - Power BI, modeling, reporting
-data_engineering:
-  - ETL foundations, PySpark
-  - PostgreSQL
-software:
-  - Java, Spring Boot, React
-  - TypeScript, Docker, Git
-```
+<table>
+<tr>
+<td width="50%" valign="top"><code>├─ data_analytics:</code><br><img src="assets/stack-analytics.svg" width="430" alt="SQL, Python, Pandas, Excel"><br><sub>SQL · Python · Pandas · Excel</sub></td>
+<td width="50%" valign="top"><code>├─ business_intelligence:</code><br><img src="assets/stack-bi.svg" width="430" alt="Power BI, Excel, data modeling"><br><sub>Power BI · Excel · Data modeling</sub></td>
+</tr>
+<tr>
+<td valign="top"><code>├─ data_engineering:</code><br><img src="assets/stack-engineering.svg" width="430" alt="PostgreSQL, PySpark, ETL foundations"><br><sub>PostgreSQL · PySpark · ETL foundations</sub></td>
+<td valign="top"><code>╰─ software_engineering:</code><br><img src="assets/stack-software.svg" width="430" alt="Java, Spring Boot, React, TypeScript, Docker, Git"><br><sub>Java · Spring Boot · React · TypeScript · Docker · Git</sub></td>
+</tr>
+</table>
 
 ## `$ ls featured-projects/`
 
