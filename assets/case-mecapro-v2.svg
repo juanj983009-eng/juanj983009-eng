@@ -7,8 +7,8 @@
 <rect x="28" y="62" width="4" height="125" rx="2" fill="#ff5a1f"/>
 <text x="49" y="79" fill="#ff9c68" font-family="Consolas,monospace" font-size="13">02 / MANUFACTURING SYSTEMS</text>
 <text x="48" y="123" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="36">MECA-PRO MES</text>
-<text x="50" y="165" fill="#e9d8c6" font-family="Consolas,monospace" font-size="12">PRODUCTION  /  DOWNTIME  /  OPERATIONS</text>
-
+<text x="50" y="153" fill="#e9d8c6" font-family="Consolas,monospace" font-size="12">PRODUCTION  /  DOWNTIME  /  OPERATIONS</text>
+<text x="50" y="182" fill="#bdb0a3" font-family="Consolas,monospace" font-size="12">Java  •  Spring Boot  •  PostgreSQL  •  React  •  Docker</text>
 <path d="M28 211H932" stroke="#342b26"/><text x="49" y="234" fill="#ffad79" font-family="Consolas,monospace" font-size="12">OPEN REPOSITORY →</text><text x="933" y="234" text-anchor="end" fill="#a99b8d" font-family="Consolas,monospace" font-size="10">ILLUSTRATIVE UI</text>
 <rect x="594" y="58" width="330" height="143" rx="7" fill="#101316" stroke="#3b302b"/><path d="M594 79h330" stroke="#302b29"/><circle cx="607" cy="69" r="2.5" fill="#ff8a3d"/><text x="618" y="73" fill="#bca998" font-family="Consolas,monospace" font-size="9">PREVIEW / production.log</text>
 <rect x="623" y="100" width="267" height="88" rx="5" fill="#15181b" stroke="#49352b"/>
