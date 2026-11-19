@@ -5,8 +5,8 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 | Control | Estado | Evidencia / siguiente paso |
 | --- | --- | --- |
 | No obvious credential material in the changed profile files | Aprobado | Searched README and SVGs for common private-key headers, GitHub token prefixes and quoted password/secret/token assignments; no matches. This is not an exhaustive secret scan. |
-| SVGs contain no scripts, external resources or embedded HTML | Aprobado | XML parsing and element/attribute inspection of all nineteen SVGs; assets use inline shapes, text and declarative animation only. |
-| Local SVG image paths | Aprobado | All nineteen SVGs reside in `assets/` and local README image paths exist. |
+| SVGs contain no scripts, external resources or embedded HTML | Aprobado | XML parsing and element/attribute inspection of all twenty-four SVGs; assets use inline shapes, text and declarative animation only. |
+| Local SVG image paths | Aprobado | All twenty-four SVGs reside in `assets/` and local README image paths exist. |
 | External profile view counter | Pendiente | The README uses Komarev for a counter; availability and counts depend on that third party and GitHub image caching. It counts requests, not unique visitors. |
 | External destination links | Pendiente | Three GitHub project repositories and the portfolio were reachable. LinkedIn redirected to a sign-in wall, so the profile could not be confirmed. Email delivery was not tested. |
 | GitHub branch protection and repository settings | Pendiente | Not assessed. |
