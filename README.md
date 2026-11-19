@@ -71,7 +71,7 @@ software:
 
 ## `$ inspect professional-focus`
 
-![Professional focus: Data Analytics and BI, connected to industrial operations, software engineering, and a long-term data engineering path](assets/focus-map.svg)
+![Professional focus: Data Analytics and BI, connected to industrial operations, software engineering, and a long-term data engineering path](assets/professional-focus.svg)
 
 **Current focus:** advanced SQL, Power BI, Python for analytics and ETL foundations. I am building toward Data Analyst and BI roles, with Data Engineering as a longer-term path.
 
