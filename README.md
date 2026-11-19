@@ -4,6 +4,16 @@
   <img src="assets/editor-hero-dark.svg" width="100%" alt="Juan Parra — Data Analytics, Business Intelligence and Software Engineering">
 </picture>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-focus-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/typing-focus-light.svg">
+    <img src="assets/typing-focus-dark.svg" width="800" alt="Data Analytics, Business Intelligence, SQL, Python, Power BI and Software Engineering">
+  </picture>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=juanj983009-eng&amp;label=PROFILE+VIEWS&amp;color=FF5A1F&amp;style=flat-square" alt="Profile view counter">
+</p>
+
 [Profile](#-whoami) · [Stack](#-cat-tech-stackyaml) · [Projects](#-ls-featured-projects) · [Learning](#-cat-learninglog) · [Connect](#-connect)
 
 ## `$ whoami`
