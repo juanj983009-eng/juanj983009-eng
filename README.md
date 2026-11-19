@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editor-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editor-hero-light.svg">
-  <img src="assets/editor-hero-dark.svg" width="100%" alt="Juan Parra — Data Analytics, Business Intelligence and Software Engineering">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editor-hero-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/editor-hero-light-v2.svg">
+  <img src="assets/editor-hero-dark-v2.svg" width="100%" alt="Juan Parra — Data Analytics, Business Intelligence and Software Engineering">
 </picture>
 
 <p align="center">
