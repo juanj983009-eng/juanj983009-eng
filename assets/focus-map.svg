@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Professional focus map</title>
+  <desc id="desc">Data Analytics and Business Intelligence at the center, connected to industrial context, software engineering and a long-term data engineering path.</desc>
+  <rect width="900" height="300" fill="#101010"/>
+  <rect x="1" y="1" width="898" height="298" fill="none" stroke="#40352F"/>
+  <rect x="1" y="1" width="898" height="40" fill="#171717"/>
+  <circle cx="21" cy="21" r="4" fill="#FF5A1F"/><circle cx="37" cy="21" r="4" fill="#70645C"/><circle cx="53" cy="21" r="4" fill="#40352F"/>
+  <text x="78" y="27" font-family="Consolas,monospace" font-size="15" fill="#CFC5B7">focus / professional-map</text>
+  <path d="M296 151H370M530 151H606M450 192V224" fill="none" stroke="#FF5A1F" stroke-width="2"/>
+  <circle cx="296" cy="151" r="4" fill="#FF8A3D"/><circle cx="606" cy="151" r="4" fill="#FF8A3D"/><circle cx="450" cy="224" r="4" fill="#FF8A3D"/>
+  <rect x="25" y="107" width="270" height="88" fill="#171717" stroke="#665044"/>
+  <text x="45" y="135" font-family="Consolas,monospace" font-size="14" fill="#FF8A3D">CONTEXT</text>
+  <text x="45" y="167" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">Industrial operations</text>
+  <rect x="370" y="91" width="160" height="105" fill="#241811" stroke="#FF8A3D" stroke-width="2"/>
+  <text x="450" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">DATA</text>
+  <text x="450" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#F2E8D5">ANALYTICS / BI</text>
+  <rect x="607" y="107" width="268" height="88" fill="#171717" stroke="#665044"/>
+  <text x="627" y="135" font-family="Consolas,monospace" font-size="14" fill="#FF8A3D">SECONDARY</text>
+  <text x="627" y="167" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">Software engineering</text>
+  <rect x="290" y="225" width="320" height="48" fill="#171717" stroke="#665044"/>
+  <text x="450" y="255" text-anchor="middle" font-family="Consolas,monospace" font-size="16" fill="#F2E8D5">LONG TERM / DATA ENGINEERING</text>
+</svg>
