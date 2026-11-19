@@ -4,6 +4,8 @@
   <img src="assets/editor-hero-dark.svg" width="100%" alt="Juan Parra — Data Analytics, Business Intelligence and Software Engineering">
 </picture>
 
+[Profile](#-whoami) · [Stack](#-cat-tech-stackyaml) · [Projects](#-ls-featured-projects) · [Learning](#-cat-learninglog) · [Connect](#-connect)
+
 ## `$ whoami`
 
 ![Juan Parra Terrel — Systems Engineering student in Lima, Peru, focused on Data Analytics and Business Intelligence, with industrial operations context and Software Engineering as a second specialty](assets/whoami-terminal-v2.svg)
@@ -16,7 +18,6 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 **Understand the process → structure the data → analyze the question → communicate the insight.**
 
-This is how I connect operational context with analytics and software: start with the problem, make the data understandable and support decisions with evidence.
 
 ## `$ cat tech-stack.yaml`
 
@@ -27,7 +28,7 @@ This is how I connect operational context with analytics and software: start wit
 </tr>
 <tr>
 <td valign="top"><code>├─ data_engineering:</code><br><img src="assets/stack-engineering.svg" width="430" alt="PostgreSQL, PySpark, ETL foundations"><br><sub>PostgreSQL · PySpark · ETL foundations</sub></td>
-<td valign="top"><code>╰─ software_engineering:</code><br><img src="assets/stack-software.svg" width="430" alt="Java, Spring Boot, React, TypeScript, Docker, Git"><br><sub>Java · Spring Boot · React · TypeScript · Docker · Git</sub></td>
+<td valign="top"><code>╰─ software_engineering:</code><br><img src="assets/stack-software-v2.svg" width="430" alt="Java, Spring Boot, React, TypeScript, Docker, Git"><br><sub>Java · Spring Boot · React · TypeScript · Docker · Git</sub></td>
 </tr>
 </table>
 
@@ -35,17 +36,17 @@ This is how I connect operational context with analytics and software: start wit
 
 [![SmartFleet V2 — telemetry and operations](assets/case-smartfleet.svg)](https://github.com/juanj983009-eng/SMARTFLEET_V2)
 
-**[SmartFleet V2](https://github.com/juanj983009-eng/SMARTFLEET_V2)** · Vehicle telemetry and operational monitoring, connecting a FastAPI backend to a React interface.  
+**[SmartFleet V2](https://github.com/juanj983009-eng/SMARTFLEET_V2)** · A vehicle telemetry platform combining live monitoring, operational thresholds and incident records.  
 `Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `React`
 
 [![Meca-PRO MES — manufacturing and systems](assets/case-mecapro.svg)](https://github.com/juanj983009-eng/Mecapro-mes-V1)
 
-**[Meca-PRO MES](https://github.com/juanj983009-eng/Mecapro-mes-V1)** · Manufacturing execution and shop-floor monitoring for machining operations.  
+**[Meca-PRO MES](https://github.com/juanj983009-eng/Mecapro-mes-V1)** · A manufacturing execution system for tracking production times, downtime and machining operations.  
 `Java` · `Spring Boot` · `PostgreSQL` · `React` · `Docker`
 
 [![TurnoShift — workforce scheduling](assets/case-turnoshift.svg)](https://github.com/juanj983009-eng/TurnoShift)
 
-**[TurnoShift](https://github.com/juanj983009-eng/TurnoShift)** · Workforce scheduling with relational persistence and integration tests.  
+**[TurnoShift](https://github.com/juanj983009-eng/TurnoShift)** · A workforce scheduling application with SQL Server persistence, Flyway migrations and Testcontainers integration tests.  
 `Java` · `Spring Boot` · `SQL Server` · `React` · `TypeScript`
 
 ## `$ inspect engineering-principles`
@@ -71,7 +72,11 @@ This is how I connect operational context with analytics and software: start wit
 
 **Current focus:** advanced SQL, Power BI, Python for analytics and ETL foundations. I am building toward Data Analyst and BI roles, with Data Engineering as a longer-term path.
 
-**Training:** IBM — Python for Data Science, AI & Development · IBM — Introduction to Data Engineering · Cisco Networking Academy — Introduction to Cybersecurity.
+## `$ cat learning.log`
+
+- **IBM** — Python for Data Science, AI & Development
+- **IBM** — Introduction to Data Engineering
+- **Cisco Networking Academy** — Introduction to Cybersecurity
 
 ## `$ github --public-snapshot`
 
@@ -83,4 +88,4 @@ This is how I connect operational context with analytics and software: start wit
 
 Open to opportunities where data, technology and real business problems meet.
 
-[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-parra-terrel-96a435364/) &nbsp; / &nbsp; [Portfolio](https://portfolio-jp-eight-psi.vercel.app) &nbsp; / &nbsp; [Email](mailto:juan983009@gmail.com)
+<a href="https://www.linkedin.com/in/juan-jos%C3%A9-parra-terrel-96a435364/"><img src="assets/contact-linkedin-v1.svg" width="250" alt="Connect on LinkedIn"></a> <a href="https://portfolio-jp-eight-psi.vercel.app"><img src="assets/contact-portfolio-v1.svg" width="250" alt="View my portfolio"></a> <a href="mailto:juan983009@gmail.com"><img src="assets/contact-email-v1.svg" width="250" alt="Email Juan Parra"></a>
