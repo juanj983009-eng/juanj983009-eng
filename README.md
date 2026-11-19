@@ -9,11 +9,12 @@
 ```text
 juan@profile:~$ whoami
 
-  name        Juan Parra Terrel
-  focus       Data Analytics / Business Intelligence
-  background  Systems Engineering student · industrial operations
-  also        Software Engineering
-  based_in    Lima, Peru
+  name:     Juan Parra Terrel
+  focus:    Data Analytics / BI
+  studies:  Systems Engineering
+  context:  Industrial operations
+  also:     Software Engineering
+  location: Lima, Peru
 ```
 
 I connect operational context with data, using analysis and software to make business problems easier to understand and act on.
@@ -21,10 +22,16 @@ I connect operational context with data, using analysis and software to make bus
 ## `$ cat stack.yaml`
 
 ```yaml
-data_analytics: [SQL, Python, Pandas, Excel]
-business_intelligence: [Power BI, data modeling, reporting]
-data_engineering: [ETL foundations, PySpark, PostgreSQL]
-software: [Java, Spring Boot, React, TypeScript, Docker]
+data_analytics:
+  - SQL, Python, Pandas, Excel
+business_intelligence:
+  - Power BI, modeling, reporting
+data_engineering:
+  - ETL foundations, PySpark
+  - PostgreSQL
+software:
+  - Java, Spring Boot, React
+  - TypeScript, Docker
 ```
 
 ## Selected projects
