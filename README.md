@@ -39,7 +39,12 @@ I start by understanding the operation and the business question before choosing
 
 ![Animated workflow from operations to data, analysis and decisions](assets/data-pipeline-v1.svg)
 
-**Understand the process → structure the data → analyze the question → communicate the insight.**
+<details>
+<summary>Read the workflow in text</summary>
+
+Understand the process → structure the data → analyze the question → communicate the insight.
+
+</details>
 
 
 ## `$ cat tech-stack.yaml`
