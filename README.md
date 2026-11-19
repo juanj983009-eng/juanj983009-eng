@@ -17,7 +17,15 @@ juan@profile:~$ whoami
   location: Lima, Peru
 ```
 
-I connect operational context with data, using analysis and software to make business problems easier to understand and act on.
+I am a **Systems Engineering student** interested in turning operational information into useful business insight. My industrial context helps me think about processes, quality and bottlenecks before choosing a technical solution. I use software engineering to understand the full journey from data and databases to applications and testing.
+
+## `$ trace --from operations --to decisions`
+
+![Workflow from operations to data, analysis and decisions](assets/data-flow.svg)
+
+**Understand the process → structure the data → analyze the question → communicate the insight.**
+
+This is how I connect operational context with analytics and software: start with the problem, make the data understandable and support decisions with evidence.
 
 ## `$ cat stack.yaml`
 
@@ -31,43 +39,44 @@ data_engineering:
   - PostgreSQL
 software:
   - Java, Spring Boot, React
-  - TypeScript, Docker
+  - TypeScript, Docker, Git
 ```
 
-## Selected projects
+## `$ ls featured-projects/`
 
-### [SmartFleet V2](https://github.com/juanj983009-eng/SMARTFLEET_V2)
+[![SmartFleet V2 — telemetry and operations](assets/case-smartfleet.svg)](https://github.com/juanj983009-eng/SMARTFLEET_V2)
 
-[![SmartFleet V2 — telemetry and operations](assets/project-smartfleet.svg)](https://github.com/juanj983009-eng/SMARTFLEET_V2)
-
-Vehicle telemetry and operational monitoring, with a FastAPI backend and React interface.  
+**[SmartFleet V2](https://github.com/juanj983009-eng/SMARTFLEET_V2)** · Vehicle telemetry and operational monitoring, connecting a FastAPI backend to a React interface.  
 `Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `React`
 
-### [Meca-PRO MES](https://github.com/juanj983009-eng/Mecapro-mes-V1)
+[![Meca-PRO MES — manufacturing and systems](assets/case-mecapro.svg)](https://github.com/juanj983009-eng/Mecapro-mes-V1)
 
-[![Meca-PRO MES — manufacturing and analytics](assets/project-mecapro.svg)](https://github.com/juanj983009-eng/Mecapro-mes-V1)
+**[Meca-PRO MES](https://github.com/juanj983009-eng/Mecapro-mes-V1)** · Manufacturing execution and shop-floor monitoring for machining operations.  
+`Java` · `Spring Boot` · `PostgreSQL` · `React` · `Docker`
 
-Manufacturing execution and shop-floor monitoring for machining operations.  
-`Java` · `Spring Boot` · `PostgreSQL` · `React`
+[![TurnoShift — workforce scheduling](assets/case-turnoshift.svg)](https://github.com/juanj983009-eng/TurnoShift)
 
-### [TurnoShift](https://github.com/juanj983009-eng/TurnoShift)
-
-[![TurnoShift — workforce scheduling](assets/project-turnoshift.svg)](https://github.com/juanj983009-eng/TurnoShift)
-
-Workforce scheduling application with relational persistence and integration tests.  
+**[TurnoShift](https://github.com/juanj983009-eng/TurnoShift)** · Workforce scheduling with relational persistence and integration tests.  
 `Java` · `Spring Boot` · `SQL Server` · `React` · `TypeScript`
 
-## Engineering principles
+## `$ inspect engineering-principles`
 
-**Problem first** — understand the operational question before choosing tools.  
-**Reliable data** — model information clearly and preserve integrity.  
-**Testing** — use evidence to check behavior and prevent regressions.  
-**Security by Design** — consider access, validation and secrets throughout development.
+| Principle | In practice |
+| :--- | :--- |
+| **Problem first** | Understand the operation and business question before choosing tools. |
+| **Data integrity** | Use clear models, traceability and consistent persistence. |
+| **Testing** | Check behavior with evidence and protect against regressions. |
+| **Security by Design** | Consider secrets, access and input validation throughout development. |
+| **Maintainability** | Favor clear systems and document relevant decisions. |
 
-## Current focus
+## `$ cat learning.log`
 
-Building toward Data Analyst and BI roles while deepening SQL, Power BI, Python and ETL foundations. Longer term: Data Engineering.
+**Current focus:** advanced SQL, Power BI, Python for analytics and ETL foundations. I am building toward Data Analyst and BI roles, with Data Engineering as a longer-term path.
 
-## Connect
+**Training:** IBM — Python for Data Science, AI & Development · IBM — Introduction to Data Engineering · Cisco Networking Academy — Introduction to Cybersecurity.
+
+## `$ connect`
+
+Open to opportunities where data, technology and real business problems meet.
 
 [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-parra-terrel-96a435364/) &nbsp; / &nbsp; [Portfolio](https://portfolio-jp-eight-psi.vercel.app) &nbsp; / &nbsp; [Email](mailto:juan983009@gmail.com)
