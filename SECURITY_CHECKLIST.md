@@ -31,3 +31,5 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 | Qualitative focus map | Pendiente | The diagram uses no skill scores or private data; GitHub rendering and animation need verification across clients. |
 
 | Learning panel | Pendiente | Course titles were retained from the existing README; credential issuance and GitHub animation across clients have not been independently verified. |
+
+| Revised statistics renderer | Pendiente | Local fixture tests cover filtering, escaping and empty data; the revised workflow must run on GitHub after merge. |
