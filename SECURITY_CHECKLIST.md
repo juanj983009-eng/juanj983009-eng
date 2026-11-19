@@ -39,3 +39,5 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 | Animated editor hero | Pendiente | Both SVG variants are local; rendering and motion must be checked in GitHub and across clients. |
 
 | Hero pipeline icons | Pendiente | Custom inline vector icons use no external image resources; GitHub rendering and motion across clients need verification. |
+
+| Navigation buttons | Pendiente | SVGs are local; GitHub anchor behavior and mobile layout need verification. |
