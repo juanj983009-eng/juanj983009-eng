@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering principles</title>
+  <desc id="desc">Problem first, data integrity, testing, security by design and maintainability, presented as engineering practices.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#191a1b"/><stop offset="1" stop-color="#0d1013"/></linearGradient>
+    <linearGradient id="flow" x2="0" y2="1"><stop stop-color="#ffad70"/><stop offset="1" stop-color="#ff5a1f"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="438" rx="12" fill="url(#bg)" stroke="#513b30" stroke-width="2"/>
+  <path d="M1 43H959" stroke="#3d302a"/><circle cx="24" cy="22" r="5" fill="#ff5a1f"/><circle cx="41" cy="22" r="5" fill="#ffa46e"/><circle cx="58" cy="22" r="5" fill="#6c625c"/>
+  <text x="79" y="27" font-family="Consolas,monospace" font-size="13" fill="#d9cbbd">engineering / principles.md</text>
+  <text x="934" y="27" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#b2a396">PRACTICES</text>
+  <rect x="20" y="59" width="613" height="319" rx="8" fill="#121519" stroke="#3d302a"/>
+  <path d="M36 123H617M36 184H617M36 245H617M36 306H617" stroke="#302b27"/>
+  <g fill="#242729" stroke="#594030"><rect x="38" y="73" width="38" height="38" rx="8"/><rect x="38" y="134" width="38" height="38" rx="8"/><rect x="38" y="195" width="38" height="38" rx="8"/><rect x="38" y="256" width="38" height="38" rx="8"/><rect x="38" y="317" width="38" height="38" rx="8"/></g>
+  <g fill="none" stroke="#ff965e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="54" cy="89" r="7"/><path d="M59 94l6 6M54 85v5m0 3v.1"/>
+    <ellipse cx="57" cy="145" rx="9" ry="3"/><path d="M48 145v13c0 4 18 4 18 0v-13M48 152c0 4 18 4 18 0"/>
+    <path d="M49 212l5 5 11-12M49 222h17"/>
+    <path d="M57 263l10 4v7c0 7-5 10-10 12-5-2-10-5-10-12v-7zM53 274l3 3 5-6"/>
+    <path d="M48 332h18M48 339h13M48 346h18M52 328v21"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="19" fill="#fff">
+    <text x="94" y="91">Problem first</text><text x="94" y="152">Data integrity</text><text x="94" y="213">Testing</text><text x="94" y="274">Security by Design</text><text x="94" y="335">Maintainability</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#dfd1c1">
+    <text x="94" y="110">Understand the operation and business question.</text>
+    <text x="94" y="171">Model, trace and validate information.</text>
+    <text x="94" y="232">Check behavior and protect against regressions.</text>
+    <text x="94" y="293">Consider secrets, access and input validation.</text>
+    <text x="94" y="354">Keep systems clear and document decisions.</text>
+  </g>
+  <rect x="648" y="59" width="292" height="319" rx="8" fill="#111419" stroke="#47352b"/>
+  <path d="M648 96H940" stroke="#3d302a"/><text x="668" y="83" fill="#ffad79" font-family="Consolas,monospace" font-size="12">PRACTICE FLOW</text>
+  <text x="920" y="83" text-anchor="end" fill="#a99a8b" font-family="Consolas,monospace" font-size="10">01—05</text>
+  <path d="M686 126V324" stroke="#51392c" stroke-width="2"/>
+  <g fill="#1b1d20" stroke="#ad663e" stroke-width="2">
+    <circle cx="686" cy="126" r="6"/><circle cx="686" cy="175" r="6"/><circle cx="686" cy="225" r="6"/><circle cx="686" cy="275" r="6"/><circle cx="686" cy="324" r="6"/>
+  </g>
+  <circle cx="686" cy="126" r="4" fill="url(#flow)"><animate attributeName="cy" values="126;175;225;275;324;126" keyTimes="0;.2;.4;.6;.8;1" dur="9s" repeatCount="indefinite"/></circle>
+  <g font-family="Consolas,monospace" font-size="13" fill="#e9dfd2">
+    <text x="708" y="131">understand</text><text x="708" y="180">structure</text><text x="708" y="230">verify</text><text x="708" y="280">protect</text><text x="708" y="329">refine</text>
+  </g>
+  <path d="M20 398H940" stroke="#352c27"/><text x="28" y="423" fill="#d8c8b7" font-family="Consolas,monospace" font-size="13"><tspan fill="#ff965e">//</tspan> design with care · verify with evidence</text>
+</svg>

@@ -77,7 +77,7 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 ## `$ inspect engineering-principles`
 
-![Engineering principles: problem first, data integrity, testing, Security by Design and maintainability](assets/engineering-principles-v1.svg)
+![Engineering principles: problem first, data integrity, testing, Security by Design and maintainability](assets/engineering-principles-v2.svg)
 
 <details>
 <summary>Read the principles in text</summary>
