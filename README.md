@@ -39,14 +39,24 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 <table>
 <tr>
-<td width="50%" valign="top"><code>├─ data_analytics:</code><br><img src="assets/stack-analytics.svg" width="430" alt="SQL, Python, Pandas, Excel"><br><sub>SQL · Python · Pandas · Excel</sub></td>
-<td width="50%" valign="top"><code>├─ business_intelligence:</code><br><img src="assets/stack-bi.svg" width="430" alt="Power BI, Excel, data modeling"><br><sub>Power BI · Excel · Data modeling</sub></td>
+<td width="50%"><img src="assets/stack-data-v3.svg" width="430" alt="Data Analytics: SQL, Python, Pandas and Excel"></td>
+<td width="50%"><img src="assets/stack-bi-v3.svg" width="430" alt="Business Intelligence: Power BI, Excel and data modeling"></td>
 </tr>
 <tr>
-<td valign="top"><code>├─ data_engineering:</code><br><img src="assets/stack-engineering.svg" width="430" alt="PostgreSQL, PySpark, ETL foundations"><br><sub>PostgreSQL · PySpark · ETL foundations</sub></td>
-<td valign="top"><code>╰─ software_engineering:</code><br><img src="assets/stack-software-v2.svg" width="430" alt="Java, Spring Boot, React, TypeScript, Docker, Git"><br><sub>Java · Spring Boot · React · TypeScript · Docker · Git</sub></td>
+<td><img src="assets/stack-engineering-v3.svg" width="430" alt="Data Engineering: PostgreSQL, PySpark and ETL foundations"></td>
+<td><img src="assets/stack-software-v3.svg" width="430" alt="Software Engineering: Java, Spring Boot, React, TypeScript, Docker and Git"></td>
 </tr>
 </table>
+
+<details>
+<summary>View the stack in text</summary>
+
+- **Data Analytics:** SQL, Python, Pandas, Excel
+- **Business Intelligence:** Power BI, Excel, data modeling
+- **Data Engineering:** PostgreSQL, PySpark, ETL foundations
+- **Software Engineering:** Java, Spring Boot, React, TypeScript, Docker, Git
+
+</details>
 
 ## `$ ls featured-projects/`
 
@@ -104,4 +114,4 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 Open to opportunities where data, technology and real business problems meet.
 
-<a href="https://www.linkedin.com/in/juan-jos%C3%A9-parra-terrel-96a435364/"><img src="assets/contact-linkedin-v1.svg" width="250" alt="Connect on LinkedIn"></a> <a href="https://portfolio-jp-eight-psi.vercel.app"><img src="assets/contact-portfolio-v1.svg" width="250" alt="View my portfolio"></a> <a href="mailto:juan983009@gmail.com"><img src="assets/contact-email-v1.svg" width="250" alt="Email Juan Parra"></a>
+<a href="https://www.linkedin.com/in/juan-jos%C3%A9-parra-terrel-96a435364/"><img src="assets/contact-linkedin-v1.svg" width="250" alt="Connect on LinkedIn"></a> <a href="https://portfolio-jp-eight-psi.vercel.app"><img src="assets/contact-portfolio-v1.svg" width="250" alt="View my portfolio"></a> <a href="mailto:juan983009@gmail.com"><img src="assets/contact-email-v1.svg" width="250" alt="Email Juan Parra"></a>
