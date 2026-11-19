@@ -14,7 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=juanj983009-eng&amp;label=PROFILE+VIEWS&amp;color=FF5A1F&amp;style=flat-square" alt="Profile view counter">
 </p>
 
-[Profile](#-whoami) · [Stack](#-cat-tech-stackyaml) · [Projects](#-ls-featured-projects) · [Learning](#-cat-learninglog) · [Connect](#-connect)
+<p align="center">
+  <a href="#-whoami"><img src="assets/nav-profile-v1.svg" width="106" height="30" alt="PROFILE"></a>
+  <a href="#-cat-tech-stackyaml"><img src="assets/nav-stack-v1.svg" width="106" height="30" alt="STACK"></a>
+  <a href="#-ls-featured-projects"><img src="assets/nav-projects-v1.svg" width="106" height="30" alt="PROJECTS"></a>
+  <a href="#-cat-learninglog"><img src="assets/nav-learning-v1.svg" width="106" height="30" alt="LEARNING"></a>
+  <a href="#-connect"><img src="assets/nav-connect-v1.svg" width="106" height="30" alt="CONNECT"></a>
+</p>
 
 ## `$ whoami`
 
