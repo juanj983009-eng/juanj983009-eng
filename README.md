@@ -30,7 +30,7 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 ## `$ trace --from operations --to decisions`
 
-![Workflow from operations to data, analysis and decisions](assets/data-flow.svg)
+![Animated workflow from operations to data, analysis and decisions](assets/data-pipeline-v1.svg)
 
 **Understand the process → structure the data → analyze the question → communicate the insight.**
 
@@ -104,4 +104,4 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 Open to opportunities where data, technology and real business problems meet.
 
-<a href="https://www.linkedin.com/in/juan-jos%C3%A9-parra-terrel-96a435364/"><img src="assets/contact-linkedin-v1.svg" width="250" alt="Connect on LinkedIn"></a> <a href="https://portfolio-jp-eight-psi.vercel.app"><img src="assets/contact-portfolio-v1.svg" width="250" alt="View my portfolio"></a> <a href="mailto:juan983009@gmail.com"><img src="assets/contact-email-v1.svg" width="250" alt="Email Juan Parra"></a>
+<a href="https://www.linkedin.com/in/juan-jos%C3%A9-parra-terrel-96a435364/"><img src="assets/contact-linkedin-v1.svg" width="250" alt="Connect on LinkedIn"></a> <a href="https://portfolio-jp-eight-psi.vercel.app"><img src="assets/contact-portfolio-v1.svg" width="250" alt="View my portfolio"></a> <a href="mailto:juan983009@gmail.com"><img src="assets/contact-email-v1.svg" width="250" alt="Email Juan Parra"></a>
