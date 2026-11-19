@@ -69,7 +69,9 @@ software:
 | **Security by Design** | Consider secrets, access and input validation throughout development. |
 | **Maintainability** | Favor clear systems and document relevant decisions. |
 
-## `$ cat learning.log`
+## `$ inspect professional-focus`
+
+![Professional focus: Data Analytics and BI, connected to industrial operations, software engineering, and a long-term data engineering path](assets/focus-map.svg)
 
 **Current focus:** advanced SQL, Power BI, Python for analytics and ETL foundations. I am building toward Data Analyst and BI roles, with Data Engineering as a longer-term path.
 
