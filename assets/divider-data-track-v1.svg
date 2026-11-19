@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="20" viewBox="0 0 900 20">
+  <path d="M12 10H888" stroke="#5e4335" stroke-width="1"/>
+  <path d="M12 10H78" stroke="#ff8a3d" stroke-width="1.5"/>
+  <circle cx="12" cy="10" r="2" fill="#ff8a3d"><animate attributeName="cx" values="12;888;12" dur="16s" repeatCount="indefinite"/></circle>
+  <circle cx="888" cy="10" r="2" fill="#ff8a3d"/>
+</svg>
