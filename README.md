@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="#-whoami"><img src="assets/nav-profile-v1.svg" width="106" height="30" alt="PROFILE"></a>
-  <a href="#-cat-tech-stackyaml"><img src="assets/nav-stack-v1.svg" width="106" height="30" alt="STACK"></a>
-  <a href="#-ls-featured-projects"><img src="assets/nav-projects-v1.svg" width="106" height="30" alt="PROJECTS"></a>
-  <a href="#-cat-learninglog"><img src="assets/nav-learning-v1.svg" width="106" height="30" alt="LEARNING"></a>
-  <a href="#-connect"><img src="assets/nav-connect-v1.svg" width="106" height="30" alt="CONNECT"></a>
+  <a href="#-whoami"><img src="assets/nav-profile-v2.svg" width="122" height="36" alt="PROFILE"></a>
+  <a href="#-cat-tech-stackyaml"><img src="assets/nav-stack-v2.svg" width="122" height="36" alt="STACK"></a>
+  <a href="#-ls-featured-projects"><img src="assets/nav-projects-v2.svg" width="122" height="36" alt="PROJECTS"></a>
+  <a href="#-cat-learninglog"><img src="assets/nav-learning-v2.svg" width="122" height="36" alt="LEARNING"></a>
+  <a href="#-connect"><img src="assets/nav-connect-v2.svg" width="122" height="36" alt="CONNECT"></a>
 </p>
 
 ## `$ whoami`
