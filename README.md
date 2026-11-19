@@ -26,7 +26,14 @@
 
 ![Animated workspace with Juan Parra Terrel’s portrait and profile: Systems Engineering student in Lima, Peru, focused on Data Analytics and Business Intelligence, with industrial operations context and Software Engineering as a second specialty](assets/profile-workspace-v1.svg)
 
-I am a **Systems Engineering student** interested in turning operational information into useful business insight. My industrial context helps me think about processes, quality and bottlenecks before choosing a technical solution. I use software engineering to understand the full journey from data and databases to applications and testing.
+**Systems Engineering student focused on Data Analytics and Business Intelligence.** I use my industrial operations perspective to understand processes, identify bottlenecks and turn data into useful insights. I also build software to connect data, applications and business needs.
+
+<details>
+<summary>More about my approach</summary>
+
+I start by understanding the operation and the business question before choosing tools. I am strengthening my skills in SQL, Power BI, Python and data engineering foundations while exploring how databases, applications and testing fit together.
+
+</details>
 
 ## `$ trace --from operations --to decisions`
 
