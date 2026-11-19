@@ -100,9 +100,16 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 ## `$ cat learning.log`
 
+![Learning log: IBM Python for Data Science, AI and Development; IBM Introduction to Data Engineering; Cisco Networking Academy Introduction to Cybersecurity](assets/learning-workspace-v1.svg)
+
+<details>
+<summary>Read the learning log in text</summary>
+
 - **IBM** — Python for Data Science, AI & Development
 - **IBM** — Introduction to Data Engineering
 - **Cisco Networking Academy** — Introduction to Cybersecurity
+
+</details>
 
 ## `$ github --public-snapshot`
 

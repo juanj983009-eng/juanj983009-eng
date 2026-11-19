@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="315" viewBox="0 0 960 315" role="img" aria-labelledby="title desc">
+<title id="title">Learning log</title><desc id="desc">Learning topics include IBM Python for Data Science, AI and Development, IBM Introduction to Data Engineering, and Cisco Networking Academy Introduction to Cybersecurity.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#181a1c"/><stop offset="1" stop-color="#0c0e11"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="313" rx="12" fill="url(#bg)" stroke="#503b30" stroke-width="2"/>
+<path d="M1 44H959" stroke="#3a2f29"/><circle cx="24" cy="22" r="5" fill="#ff5a1f"/><circle cx="41" cy="22" r="5" fill="#ffaa71"/><circle cx="58" cy="22" r="5" fill="#72645c"/>
+<text x="80" y="27" fill="#dfd0c1" font-family="Consolas,monospace" font-size="13">learning / learning.log</text><text x="932" y="27" text-anchor="end" fill="#b4a597" font-family="Consolas,monospace" font-size="11">CONTINUOUS LEARNING</text>
+<path d="M45 83V227" stroke="#594034" stroke-width="2"/>
+<circle cx="45" cy="83" r="5" fill="#ff8a3d"/><circle cx="45" cy="155" r="5" fill="#ff8a3d"/><circle cx="45" cy="227" r="5" fill="#ff8a3d"/>
+<circle cx="45" cy="83" r="11" fill="none" stroke="#ff8a3d" opacity=".4"><animate attributeName="cy" values="83;155;227;83" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;.7;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+<g fill="#14171b" stroke="#3b302a"><rect x="69" y="58" width="862" height="58" rx="7"/><rect x="69" y="130" width="862" height="58" rx="7"/><rect x="69" y="202" width="862" height="58" rx="7"/></g>
+<g fill="#242729" stroke="#584033"><rect x="82" y="68" width="38" height="38" rx="8"/><rect x="82" y="140" width="38" height="38" rx="8"/><rect x="82" y="212" width="38" height="38" rx="8"/></g>
+<g fill="none" stroke="#ff965f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M93 82l-5 5 5 5 M109 82l5 5-5 5 M103 79l-4 16"/>
+<ellipse cx="101" cy="150" rx="9" ry="3"/><path d="M92 150v14c0 4 18 4 18 0v-14M92 157c0 4 18 4 18 0"/>
+<path d="M101 218l10 4v7c0 7-5 10-10 12-5-2-10-5-10-12v-7z M97 229l3 3 5-6"/>
+</g>
+<g font-family="Consolas,monospace" font-size="11" fill="#ff9d6b"><text x="137" y="79">IBM / DATA SCIENCE</text><text x="137" y="151">IBM / DATA ENGINEERING</text><text x="137" y="223">CISCO NETWORKING ACADEMY</text></g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#fff"><text x="137" y="101">Python for Data Science, AI &amp; Development</text><text x="137" y="173">Introduction to Data Engineering</text><text x="137" y="245">Introduction to Cybersecurity</text></g>
+<g font-family="Consolas,monospace" font-size="11" fill="#ae9e90" text-anchor="end"><text x="910" y="92">01</text><text x="910" y="164">02</text><text x="910" y="236">03</text></g>
+<path d="M28 278H932" stroke="#382e29"/><text x="30" y="300" fill="#d4c5b7" font-family="Consolas,monospace" font-size="12"><tspan fill="#ff9d6b">//</tspan> learning across data and security</text>
+</svg>
