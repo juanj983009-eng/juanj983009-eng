@@ -6,16 +6,7 @@
 
 ## `$ whoami`
 
-```text
-juan@profile:~$ whoami
-
-  name:     Juan Parra Terrel
-  focus:    Data Analytics / BI
-  studies:  Systems Engineering
-  context:  Industrial operations
-  also:     Software Engineering
-  location: Lima, Peru
-```
+![Juan Parra Terrel — Systems Engineering student in Lima, Peru, focused on Data Analytics and Business Intelligence, with industrial operations context and Software Engineering as a second specialty](assets/whoami-terminal-v2.svg)
 
 I am a **Systems Engineering student** interested in turning operational information into useful business insight. My industrial context helps me think about processes, quality and bottlenecks before choosing a technical solution. I use software engineering to understand the full journey from data and databases to applications and testing.
 
