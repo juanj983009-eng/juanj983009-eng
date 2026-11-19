@@ -21,3 +21,5 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 | Animated data pipeline | Pendiente | XML, local image references and a static preview are checked; animation and mobile readability need verification in GitHub. |
 
 | Animated stack cards | Pendiente | XML, paths and desktop rendering are checked during the redesign; mobile readability and animation across clients require separate verification. |
+
+| Updated stack icons and motion | Pendiente | The icon paths, animation and readability will be checked in GitHub; motion behavior may vary by client. |
