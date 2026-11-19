@@ -13,4 +13,4 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-18.
 | Full history secret scan | Pendiente | Only the current changed profile files were searched; repository history was not scanned. |
 
 | Automated statistics permissions | Aprobado | Workflow scopes GITHUB_TOKEN to contents: write, pins checkout to a commit and stages only assets/github-public-stats.svg; it uses the public GitHub API. |
-| Statistics workflow execution | Pendiente | Confirm the first GitHub Actions run succeeds after merging and that repository settings allow Actions to write. |
+| Statistics workflow execution | Aprobado | [Run 44461160959](https://github.com/juanj983009-eng/juanj983009-eng/actions/runs/44461160959) completed successfully, including API generation and commit step. |
