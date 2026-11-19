@@ -35,3 +35,5 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 | Revised statistics renderer | Aprobado | Local fixtures covered filtering, escaping and empty data; [workflow run 44469802874](https://github.com/juanj983009-eng/juanj983009-eng/actions/runs/44469802874) completed successfully using the public API. |
 
 | Contact buttons | Pendiente | Existing destinations retained; LinkedIn availability and email delivery require independent confirmation. |
+
+| Animated editor hero | Pendiente | Both SVG variants are local; rendering and motion must be checked in GitHub and across clients. |
