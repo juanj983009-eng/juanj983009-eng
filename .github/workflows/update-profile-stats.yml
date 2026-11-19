@@ -1,0 +1,35 @@
+name: Refresh profile statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 7 * * 1'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update-profile-stats.cjs'
+      - '.github/workflows/update-profile-stats.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Generate snapshot from public GitHub API
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/update-profile-stats.cjs
+      - name: Commit changed snapshot
+        run: |
+          if git diff --quiet -- assets/github-public-stats.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-public-stats.svg
+          git commit -m "Update public profile statistics"
+          git push
