@@ -25,3 +25,5 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 | Updated stack icons and motion | Pendiente | The icon paths, animation and readability will be checked in GitHub; motion behavior may vary by client. |
 
 | Project card illustrations | Pendiente | Project descriptions checked against repository READMEs; SVG rendering and animation require verification in GitHub. |
+
+| Engineering principles animation | Pendiente | The graphic presents aspirations, not verified control results; GitHub rendering and mobile readability need verification. |
