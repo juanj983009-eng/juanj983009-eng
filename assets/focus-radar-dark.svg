@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="460" viewBox="0 0 960 460">
+<rect width="960" height="460" rx="24" fill="#111111" stroke="#2A2A2A"/>
+<text x="38" y="46" font-family="JetBrains Mono, monospace" font-size="17" fill="#FF8A3D">$ inspect focus-map</text>
+<g transform="translate(10 0)">
+<polygon points="230.0,182.5 262.5,201.2 262.5,238.8 230.0,257.5 197.5,238.8 197.5,201.2" fill="none" stroke="#2A2A2A" stroke-width="1"/><polygon points="230.0,145.0 295.0,182.5 295.0,257.5 230.0,295.0 165.0,257.5 165.0,182.5" fill="none" stroke="#2A2A2A" stroke-width="1"/><polygon points="230.0,107.5 327.4,163.8 327.4,276.2 230.0,332.5 132.6,276.2 132.6,163.8" fill="none" stroke="#2A2A2A" stroke-width="1"/><polygon points="230.0,70.0 359.9,145.0 359.9,295.0 230.0,370.0 100.1,295.0 100.1,145.0" fill="none" stroke="#2A2A2A" stroke-width="1"/><line x1="230" y1="220" x2="230.0" y2="70.0" stroke="#2A2A2A" stroke-width="1"/><line x1="230" y1="220" x2="359.9" y2="145.0" stroke="#2A2A2A" stroke-width="1"/><line x1="230" y1="220" x2="359.9" y2="295.0" stroke="#2A2A2A" stroke-width="1"/><line x1="230" y1="220" x2="230.0" y2="370.0" stroke="#2A2A2A" stroke-width="1"/><line x1="230" y1="220" x2="100.1" y2="295.0" stroke="#2A2A2A" stroke-width="1"/><line x1="230" y1="220" x2="100.1" y2="145.0" stroke="#2A2A2A" stroke-width="1"/>
+<polygon points="230.0,88.0 349.5,151.0 339.1,283.0 230.0,322.0 131.3,277.0 123.5,158.5" fill="#FF5A1F" fill-opacity=".22" stroke="#FF5A1F" stroke-width="3"/>
+<text x="230.0" y="32.0" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" fill="#FFFFFF">SQL</text><text x="392.8" y="126.0" text-anchor="start" font-family="JetBrains Mono, monospace" font-size="13" fill="#FFFFFF">Data Analytics</text><text x="392.8" y="314.0" text-anchor="start" font-family="JetBrains Mono, monospace" font-size="13" fill="#FFFFFF">BI</text><text x="230.0" y="408.0" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" fill="#FFFFFF">Data Engineering</text><text x="67.2" y="314.0" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="13" fill="#FFFFFF">Software</text><text x="67.2" y="126.0" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="13" fill="#FFFFFF">Industrial Context</text>
+</g>
+<g transform="translate(540 115)">
+<text x="0" y="0" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="24" fill="#FFFFFF">Professional focus</text>
+<text x="0" y="42" font-family="Inter,Arial,sans-serif" font-size="16" fill="#A3A3A3">This radar represents current focus areas,</text>
+<text x="0" y="66" font-family="Inter,Arial,sans-serif" font-size="16" fill="#A3A3A3">not self-assessed proficiency percentages.</text>
+<text x="0" y="118" font-family="JetBrains Mono, monospace" font-size="15" fill="#FF8A3D">PRIMARY</text>
+<text x="0" y="145" font-family="Inter,Arial,sans-serif" font-size="18" fill="#FFFFFF">Data Analytics · BI · SQL</text>
+<text x="0" y="194" font-family="JetBrains Mono, monospace" font-size="15" fill="#FF8A3D">SECONDARY</text>
+<text x="0" y="221" font-family="Inter,Arial,sans-serif" font-size="18" fill="#FFFFFF">Software Engineering</text>
+<text x="0" y="270" font-family="JetBrains Mono, monospace" font-size="15" fill="#FF8A3D">LONG TERM</text>
+<text x="0" y="297" font-family="Inter,Arial,sans-serif" font-size="18" fill="#FFFFFF">Data Engineering</text>
+</g>
+</svg>
