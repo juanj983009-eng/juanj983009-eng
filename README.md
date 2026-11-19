@@ -60,17 +60,17 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 ## `$ ls featured-projects/`
 
-[![SmartFleet V2 — telemetry and operations](assets/case-smartfleet.svg)](https://github.com/juanj983009-eng/SMARTFLEET_V2)
+[![SmartFleet V2 — telemetry and operations](assets/case-smartfleet-v2.svg)](https://github.com/juanj983009-eng/SMARTFLEET_V2)
 
 **[SmartFleet V2](https://github.com/juanj983009-eng/SMARTFLEET_V2)** · A vehicle telemetry platform combining live monitoring, operational thresholds and incident records.  
 `Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `React`
 
-[![Meca-PRO MES — manufacturing and systems](assets/case-mecapro.svg)](https://github.com/juanj983009-eng/Mecapro-mes-V1)
+[![Meca-PRO MES — manufacturing and systems](assets/case-mecapro-v2.svg)](https://github.com/juanj983009-eng/Mecapro-mes-V1)
 
 **[Meca-PRO MES](https://github.com/juanj983009-eng/Mecapro-mes-V1)** · A manufacturing execution system for tracking production times, downtime and machining operations.  
 `Java` · `Spring Boot` · `PostgreSQL` · `React` · `Docker`
 
-[![TurnoShift — workforce scheduling](assets/case-turnoshift.svg)](https://github.com/juanj983009-eng/TurnoShift)
+[![TurnoShift — workforce scheduling](assets/case-turnoshift-v2.svg)](https://github.com/juanj983009-eng/TurnoShift)
 
 **[TurnoShift](https://github.com/juanj983009-eng/TurnoShift)** · A workforce scheduling application with SQL Server persistence, Flyway migrations and Testcontainers integration tests.  
 `Java` · `Spring Boot` · `SQL Server` · `React` · `TypeScript`
