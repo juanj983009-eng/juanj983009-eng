@@ -69,11 +69,19 @@ This is how I connect operational context with analytics and software: start wit
 
 ## `$ inspect professional-focus`
 
-![Professional focus: Data Analytics and BI, connected to industrial operations, software engineering, and a long-term data engineering path](assets/professional-focus.svg)
+![Qualitative focus radar: SQL, Power BI, Python, Data Engineering, software and industrial operations](assets/focus-radar-editor.svg)
+
+<sub>Qualitative focus map; the positions do not represent skill scores.</sub>
 
 **Current focus:** advanced SQL, Power BI, Python for analytics and ETL foundations. I am building toward Data Analyst and BI roles, with Data Engineering as a longer-term path.
 
 **Training:** IBM — Python for Data Science, AI & Development · IBM — Introduction to Data Engineering · Cisco Networking Academy — Introduction to Cybersecurity.
+
+## `$ github --public-snapshot`
+
+![Public non-fork repositories, stars and primary languages by repository](assets/github-public-stats.svg)
+
+<sub>Counts reflect public, owned, non-fork repositories. Languages are counted by GitHub’s primary language per repository; they are not skill ratings. Updated weekly by GitHub Actions.</sub>
 
 ## `$ connect`
 
