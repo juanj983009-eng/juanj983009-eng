@@ -72,20 +72,17 @@ Understand the process → structure the data → analyze the question → commu
 
 ## `$ ls featured-projects/`
 
-[![SmartFleet V2 — telemetry and operations](assets/case-smartfleet-v3.svg)](https://github.com/juanj983009-eng/SMARTFLEET_V2)
+[![SmartFleet V2 — telemetry and operations](assets/case-smartfleet-v2.svg)](https://github.com/juanj983009-eng/SMARTFLEET_V2)
 
-**[SmartFleet V2](https://github.com/juanj983009-eng/SMARTFLEET_V2)** · A vehicle telemetry platform combining live monitoring, operational thresholds and incident records.  
-`Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `React`
+**[SmartFleet V2](https://github.com/juanj983009-eng/SMARTFLEET_V2)** · A vehicle telemetry platform combining live monitoring, operational thresholds and incident records.
 
-[![Meca-PRO MES — manufacturing and systems](assets/case-mecapro-v3.svg)](https://github.com/juanj983009-eng/Mecapro-mes-V1)
+[![Meca-PRO MES — manufacturing and systems](assets/case-mecapro-v2.svg)](https://github.com/juanj983009-eng/Mecapro-mes-V1)
 
-**[Meca-PRO MES](https://github.com/juanj983009-eng/Mecapro-mes-V1)** · A manufacturing execution system for tracking production times, downtime and machining operations.  
-`Java` · `Spring Boot` · `PostgreSQL` · `React` · `Docker`
+**[Meca-PRO MES](https://github.com/juanj983009-eng/Mecapro-mes-V1)** · A manufacturing execution system for tracking production times, downtime and machining operations.
 
-[![TurnoShift — workforce scheduling](assets/case-turnoshift-v3.svg)](https://github.com/juanj983009-eng/TurnoShift)
+[![TurnoShift — workforce scheduling](assets/case-turnoshift-v2.svg)](https://github.com/juanj983009-eng/TurnoShift)
 
-**[TurnoShift](https://github.com/juanj983009-eng/TurnoShift)** · A workforce scheduling application with SQL Server persistence, Flyway migrations and Testcontainers integration tests.  
-`Java` · `Spring Boot` · `SQL Server` · `React` · `TypeScript`
+**[TurnoShift](https://github.com/juanj983009-eng/TurnoShift)** · A workforce scheduling application with SQL Server persistence, Flyway migrations and Testcontainers integration tests.
 
 ## `$ inspect engineering-principles`
 
