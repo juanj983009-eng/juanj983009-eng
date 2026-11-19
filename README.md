@@ -82,7 +82,7 @@ I am a **Systems Engineering student** interested in turning operational informa
 
 ## `$ inspect professional-focus`
 
-![Qualitative focus radar: SQL, Power BI, Python, Data Engineering, software and industrial operations](assets/focus-radar-editor.svg)
+![Qualitative focus radar: SQL, Power BI, Python, Data Engineering, software and industrial operations](assets/profile-focus-radar-v3.svg)
 
 <sub>Qualitative focus map; the positions do not represent skill scores.</sub>
 
