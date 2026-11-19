@@ -32,4 +32,4 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 
 | Learning panel | Pendiente | Course titles were retained from the existing README; credential issuance and GitHub animation across clients have not been independently verified. |
 
-| Revised statistics renderer | Pendiente | Local fixture tests cover filtering, escaping and empty data; the revised workflow must run on GitHub after merge. |
+| Revised statistics renderer | Aprobado | Local fixtures covered filtering, escaping and empty data; [workflow run 44469802874](https://github.com/juanj983009-eng/juanj983009-eng/actions/runs/44469802874) completed successfully using the public API. |
