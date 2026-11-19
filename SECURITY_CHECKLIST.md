@@ -37,3 +37,5 @@ Scope: this profile README and its local SVG assets. Last reviewed: 2026-11-19.
 | Contact buttons | Pendiente | Existing destinations retained; LinkedIn availability and email delivery require independent confirmation. |
 
 | Animated editor hero | Pendiente | Both SVG variants are local; rendering and motion must be checked in GitHub and across clients. |
+
+| Hero pipeline icons | Pendiente | Custom inline vector icons use no external image resources; GitHub rendering and motion across clients need verification. |
