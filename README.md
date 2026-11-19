@@ -106,9 +106,14 @@ Understand the process → structure the data → analyze the question → commu
 
 ![Qualitative focus radar: SQL, Power BI, Python, Data Engineering, software and industrial operations](assets/profile-focus-map-v4.svg)
 
-<sub>Qualitative focus map; the positions do not represent skill scores.</sub>
+<details>
+<summary>Read the professional focus in text</summary>
+
+Qualitative focus map; the positions do not represent skill scores.
 
 **Current focus:** advanced SQL, Power BI, Python for analytics and ETL foundations. I am building toward Data Analyst and BI roles, with Data Engineering as a longer-term path.
+
+</details>
 
 ## `$ cat learning.log`
 
