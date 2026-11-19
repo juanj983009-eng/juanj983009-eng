@@ -47,6 +47,8 @@ Understand the process → structure the data → analyze the question → commu
 </details>
 
 
+<p align="center"><img src="assets/divider-data-track-v1.svg" width="900" alt=""></p>
+
 ## `$ cat tech-stack.yaml`
 
 <table>
@@ -84,7 +86,9 @@ Understand the process → structure the data → analyze the question → commu
 
 **[TurnoShift](https://github.com/juanj983009-eng/TurnoShift)** · A workforce scheduling application with SQL Server persistence, Flyway migrations and Testcontainers integration tests.
 
-## `$ inspect engineering-principles`
+<p align="center"><img src="assets/divider-data-track-v1.svg" width="900" alt=""></p>
+
+## `$ inspect engineering-principles` <img src="assets/heading-signal-v1.svg" width="42" height="18" alt="">
 
 ![Engineering principles: problem first, data integrity, testing, Security by Design and maintainability](assets/engineering-principles-v2.svg)
 
@@ -99,7 +103,7 @@ Understand the process → structure the data → analyze the question → commu
 
 </details>
 
-## `$ inspect professional-focus`
+## `$ inspect professional-focus` <img src="assets/heading-signal-v1.svg" width="42" height="18" alt="">
 
 ![Qualitative focus radar: SQL, Power BI, Python, Data Engineering, software and industrial operations](assets/profile-focus-map-v4.svg)
 
