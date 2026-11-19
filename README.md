@@ -50,13 +50,18 @@ This is how I connect operational context with analytics and software: start wit
 
 ## `$ inspect engineering-principles`
 
-| Principle | In practice |
-| :--- | :--- |
-| **Problem first** | Understand the operation and business question before choosing tools. |
-| **Data integrity** | Use clear models, traceability and consistent persistence. |
-| **Testing** | Check behavior with evidence and protect against regressions. |
-| **Security by Design** | Consider secrets, access and input validation throughout development. |
-| **Maintainability** | Favor clear systems and document relevant decisions. |
+![Engineering principles: problem first, data integrity, testing, Security by Design and maintainability](assets/engineering-principles-v1.svg)
+
+<details>
+<summary>Read the principles in text</summary>
+
+- **Problem first:** Understand the operation and business question before choosing tools.
+- **Data integrity:** Use clear models, traceability and consistent persistence.
+- **Testing:** Check behavior with evidence and protect against regressions.
+- **Security by Design:** Consider secrets, access and input validation throughout development.
+- **Maintainability:** Favor clear systems and document relevant decisions.
+
+</details>
 
 ## `$ inspect professional-focus`
 
